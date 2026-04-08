@@ -16,7 +16,7 @@ import com.app.dto.StudentDto;
 import com.app.service.StudentService;
 
 @RestController
-@RequestMapping("/api")
+@RequestMapping("/student-base-url")
 //@CrossOrigin(origins = "http://localhost:3000")
 public class StudentController {
 

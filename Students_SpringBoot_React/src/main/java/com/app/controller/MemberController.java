@@ -16,7 +16,7 @@ import com.app.dto.MemberDto;
 import com.app.service.MemberServ;
 
 @RestController
-@RequestMapping("/base-url")
+@RequestMapping("/member-base-url")
 public class MemberController {
 
 	@Autowired

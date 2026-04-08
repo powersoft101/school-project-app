@@ -14,7 +14,7 @@ import com.app.dto.StaffDto;
 import com.app.service.StaffService;
 
 @RestController
-@RequestMapping("/base-url")
+@RequestMapping("/staff-base-url")
 public class StaffController {
 
 	@Autowired
